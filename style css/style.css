@@ -52,7 +52,33 @@ h4{
     margin-top: 10px;
 }
 
+.bottone{
+    font-weight: bold;
+    text-align: center;
+    width: 80px;
+    height: 25px;
+    border-radius: 7px;
+}
 
+.blu{
+    background-color: #1E90FF;
+    color: white;
+    border: none;
+}
+
+.grigio{
+    color: rgb(204, 202, 202);
+    background-color: white;
+    border: 1px solid gray;
+}
+
+.button{
+    font-weight: bold;
+    text-align: center;
+    width: 60px;
+    height: 25px;
+    border-radius: 15px;
+}
 /*utility*/
 .container{
     margin: 1px;
