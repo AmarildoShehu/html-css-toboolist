@@ -13,12 +13,11 @@ h1{
 }
 
 .intestazione{
-    background-color: #EEF3FA;
-    
+    background-color: white;   
 }
 body{
-    padding-top: 10px;
-    background-color: #EEF3FA;
+    padding-top:10px;
+    background-color:#EEF3FA;
 }
 
 h1{
