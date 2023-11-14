@@ -74,9 +74,40 @@ h4{
 .button{
     font-weight: bold;
     text-align: center;
-    width: 60px;
+    width: 70px;
     height: 25px;
     border-radius: 15px;
+    color: white;
+}
+
+.goals{
+    background-color: rgb(200, 81, 230);
+    border-style: none;
+}
+
+.recruiting{
+    background-color: cadetblue;
+    border-style: none;
+}
+
+.mobile{
+    background-color: rgb(216, 119, 54);
+    border-style: none;
+}
+
+.website{
+    background-color: rgb(218, 32, 146);
+    border-style: none;
+}
+
+.sales{
+    background-color: rgb(57, 155, 0);
+    border-style: none;
+}
+
+.editorial-o{
+    background-color: rgb(216, 119, 54);
+    border-style: none;
 }
 /*utility*/
 .container{
