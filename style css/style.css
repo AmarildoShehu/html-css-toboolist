@@ -3,5 +3,26 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
 }
 
+/*Generics*/
+body{
+    padding-top: 10px;
+}
+
+h1{
+    display: inline;
+    vertical-align: middle;
+    font-weight: normal;
+}
+
+/*utility*/
+.container{
+    margin: 1px;
+    background-color: red;
+}
+
+.logo{
+    vertical-align: middle;
+}
